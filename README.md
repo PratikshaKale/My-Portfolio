@@ -1,2 +1,2 @@
 # MyPortfolio
-link https://pratikshakale.github.io/MyPortfolio/web/index.html
+link https://pratikshakale.github.io//My-Portfolio/web/index.html
